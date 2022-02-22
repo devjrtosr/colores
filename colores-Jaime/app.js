@@ -1,26 +1,26 @@
 document.addEventListener('keypress',(e)=>{
 
-if(e.key === 'a'){
+if(e.key === 'q'){
     document.body.style.backgroundColor = '#b9fbc0';
-}else if (e.key === 'q'){
-    document.body.style.backgroundColor = '#9b2226';
 }else if (e.key === 'w'){
-    document.body.style.backgroundColor = '#ae2012';
+    document.body.style.backgroundColor = '#9b2226';
 }else if (e.key === 'e'){
-    document.body.style.backgroundColor = '#005f73';
+    document.body.style.backgroundColor = '#ae2012';
 }else if (e.key === 'r'){
-    document.body.style.backgroundColor = '#cb997e';
+    document.body.style.backgroundColor = '#005f73';
 }else if (e.key === 't'){
-    document.body.style.backgroundColor = '#ddbea9';
+    document.body.style.backgroundColor = '#cb997e';
 }else if (e.key === 'y'){
-    document.body.style.backgroundColor = '#6b705c';
+    document.body.style.backgroundColor = '#ddbea9';
 }else if (e.key === 'u'){
-    document.body.style.backgroundColor = '#fbf8cc';
+    document.body.style.backgroundColor = '#6b705c';
 }else if (e.key === 'i'){
-    document.body.style.backgroundColor = '#f1c0e8';
+    document.body.style.backgroundColor = '#fbf8cc';
 }else if (e.key === 'o'){
-    document.body.style.backgroundColor = '#cfbaf0';
+    document.body.style.backgroundColor = '#f1c0e8';
 }else if (e.key === 'p'){
+    document.body.style.backgroundColor = '#cfbaf0';
+}else if (e.key === 'a'){
     document.body.style.backgroundColor = '#fcd5ce';
 }else if (e.key === 's'){
     document.body.style.backgroundColor = '#0077b6';
